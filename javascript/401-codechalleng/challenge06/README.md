@@ -13,13 +13,19 @@ Write the following methods for the Linked List class:
   - adds a new node with the given new value immediately after the first node that has the value specified
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![WhiteBoard](./whiteboard.jpg)
+![WhiteBoard](./challenge06.jpg)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
  ### big o:
- *Time: O(n)*
+-  inser befor : time :O(n)
+                 space: O(1)
+- insert after : time :O(n)
+                 space: O(1)
+- append       : time :O(1)
+                 space: O(1)
 
+                
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
 ![run](./challenge06.PNG)
