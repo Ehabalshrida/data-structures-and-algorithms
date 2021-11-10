@@ -6,7 +6,7 @@
  [rubric](https://docs.google.com/spreadsheets/d/1s35GoN4fOuWe-inQGPR7lkPlKcPQH78rylLf73_rDqg/edit#gid=1448977519)
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![whiteboard](./cha9.jpg)
+![whiteboard](./cha99.jpg)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
