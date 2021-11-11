@@ -3,7 +3,7 @@
 **write a function to reverse a Singly Linked List.**
 
 ## rubric 
- [rubric](https://docs.google.com/spreadsheets/d/1s35GoN4fOuWe-inQGPR7lkPlKcPQH78rylLf73_rDqg/edit#gid=1448977519)
+ [rubric](https://docs.google.com/spreadsheets/d/1m41MYeLZxmMcPMbxdPcMDuB8DzEqfkiXUQQh3qok0ik/edit#gid=0)
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
 ![whiteboard](./cha99.jpg)
