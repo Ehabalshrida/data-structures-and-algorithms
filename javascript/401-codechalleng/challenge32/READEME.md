@@ -11,7 +11,7 @@
  ### big o:
  *Time: O(n)*
  
- *space:o(n)*
+ *space:o(1)*
 
 ## Solution
 <!-- Show how to run your code, and examples of it in action -->
